@@ -13,17 +13,167 @@ In the first weeks of class each student will choose three speakers to prepare q
       
     Papers should be double-spaced and use 12 point font.
 
-| {{< anchor "A" >}}{{< /anchor >}}LEC # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction to Course; "_IT as a Transformative and Competitive Resource: Implications for Strategy and Careers._" | Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))  {{< br >}}  {{< br >}}IT and Our Careers Notes ([PDF]({{< baseurl >}}/resources/itandourcareers-1)) |
-| 2 | Guest Lecturer: Tom Davenport, Head of Research, Accenture, "_The Transformation of IT: A Personal Odyssey._" | Assignment 2 ([PDF]({{< baseurl >}}/resources/asssignment2)) |
-| 3 | Case Discussion on IT Organization & Governance: State Street Corporation Over Time. | Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment3)) |
-| 4 | Guest Lecturer: Marshall Carter, former Chairman and CEO, State Street Corporation, Member of ITBT Advisory Board, "_Converting a Bank to an IT Company._" | Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4)) |
-| 5 | Guest Lecturer: Kenan Sahin (ITBT Advisory Board, CEO of TIAX, Inc.) and ITBT Alumni Panel: Ondricek, etc. "_IT Relevance in Career Planning and Choice._" | Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5)) |
-| 6 | Case Discussion and IT Scenario Planning: "_Observing the Crystal Ball._" | Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment6)) |
-| 7 | Guest Lecturer: Rick Swanborg, founder & CEO, ICEX Inc., "_Building a Knowledge Services Business in Hard Times._" | Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment7)) |
-| 8 | Guest Lecturer: Karl Wachs, CIO, Celanese Corp., "_IT as a Facilitator of Corporate Change._" | Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment8)) |
-| 9 | Guest Lecturer: Frank Erbrick, McKinsey & Company, former CIO of UPS, "_IT and Management Learning by Doing._" | Assignment 9 ([PDF]({{< baseurl >}}/resources/assignment9)) |
-| 10 | Guest Lecturer: David Shpilberg, Director, Bain & Company, Inc., "_IT and Executives Today: What They Think and What It Means_" (preliminary title). | Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment10)) |
-| 11 | Guest Lecturer: Jeff Lynn, VP and General Manager, Professional Services, Dell Computer, MIT MBA, Member of ITBT Adv Board, "_IT Industry Competition and Career Choice._" | Assignment 11 ([PDF]({{< baseurl >}}/resources/assignment11)) |
-| 12 | Closing Case Discussion and Lecture. | Assignment 12 ([PDF]({{< baseurl >}}/resources/assignment12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+{{< anchor "A" >}}{{< /anchor >}}LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Course; "_IT as a Transformative and Competitive Resource: Implications for Strategy and Careers._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))  
+  
+IT and Our Careers Notes ([PDF]({{< baseurl >}}/resources/itandourcareers-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Tom Davenport, Head of Research, Accenture, "_The Transformation of IT: A Personal Odyssey._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 ([PDF]({{< baseurl >}}/resources/asssignment2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Case Discussion on IT Organization & Governance: State Street Corporation Over Time.
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Marshall Carter, former Chairman and CEO, State Street Corporation, Member of ITBT Advisory Board, "_Converting a Bank to an IT Company._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Kenan Sahin (ITBT Advisory Board, CEO of TIAX, Inc.) and ITBT Alumni Panel: Ondricek, etc. "_IT Relevance in Career Planning and Choice._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Case Discussion and IT Scenario Planning: "_Observing the Crystal Ball._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Rick Swanborg, founder & CEO, ICEX Inc., "_Building a Knowledge Services Business in Hard Times._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Karl Wachs, CIO, Celanese Corp., "_IT as a Facilitator of Corporate Change._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Frank Erbrick, McKinsey & Company, former CIO of UPS, "_IT and Management Learning by Doing._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 ([PDF]({{< baseurl >}}/resources/assignment9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: David Shpilberg, Director, Bain & Company, Inc., "_IT and Executives Today: What They Think and What It Means_" (preliminary title).
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Jeff Lynn, VP and General Manager, Professional Services, Dell Computer, MIT MBA, Member of ITBT Adv Board, "_IT Industry Competition and Career Choice._"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 11 ([PDF]({{< baseurl >}}/resources/assignment11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Closing Case Discussion and Lecture.
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 12 ([PDF]({{< baseurl >}}/resources/assignment12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
